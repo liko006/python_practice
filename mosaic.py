@@ -1,4 +1,5 @@
 # 파일명 : mosaic.py
+# 모자이크 하는 함수를 모듈로 저장
 
 import cv2
 
