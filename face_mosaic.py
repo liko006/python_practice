@@ -27,5 +27,3 @@ for (x, y, w, h) in face_list :
 cv2.imwrite('face-detect.png', img)
 plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
 plt.show()
-
-
